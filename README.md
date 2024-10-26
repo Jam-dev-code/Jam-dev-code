@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joana Monique Torres</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5001&pause=1500&color=00F7CE&background=FF000000&width=434&lines=3D+Artist;+3D+Designer;3D+Modeler" alt="Typing SVG" /></a>
 <h3 align="center">A passionate 3D Artist and Programmer from Philippines</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jam-dev-code" alt="jam-dev-code" /></a> </p>
