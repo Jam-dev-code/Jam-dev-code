@@ -17,8 +17,7 @@
 
 <!-- Daily Dev Card -->
 <p align="center">
-  <a href="https://app.daily.dev/JamDev">
-    <img src="https://api.daily.dev/devcards/c4eac7bacab043588d76096e4bbc61a6.png?r=qeq" width="300" alt="Joana Monique Torres's Dev Card"/>
+<a href="https://app.daily.dev/jamdev"><img src="https://api.daily.dev/devcards/v2/fkO79VtHtEbMgCr6r7fX8.png?r=437&type=default" width="356" alt="Joana Monique Torres's Dev Card"/></a>
   </a>
 </p>
 
