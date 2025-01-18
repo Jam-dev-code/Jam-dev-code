@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joana Monique Torres</h1>
-<h3 align="center">A passionate 3D Artist and Programmer from the Philippines</h3>
+<h3 align="center">A passionate Multimedia Artist and Programmer from the Philippines</h3>
 
 <!-- GitHub Trophies -->
 <p align="center">
