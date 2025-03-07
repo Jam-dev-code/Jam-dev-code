@@ -11,7 +11,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5001&pause=1500&color=00F7CE&background=FF000000&width=434&lines=3D+Artist;+3D+Designer;+3D+Modeler" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5001&pause=1500&color=00F7CE&background=FF000000&width=434&lines=3D+Artist;+3D+Designer;+3D+Modeler;+Project+Manager" alt="Typing SVG"/>
   </a>
 </p>
 
