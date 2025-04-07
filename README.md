@@ -3,15 +3,13 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jam-dev-code" alt="jam-dev-code trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=jam-dev-code&theme=radical&margin-w=10&margin-h=15" alt="jam-dev-code trophies"/>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5001&pause=1500&color=00F7CE&background=FF000000&width=434&lines=3D+Artist;+3D+Designer;+3D+Modeler;+Project+Manager" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5001&pause=1500&color=FF0000&background=00000000&center=true&vCenter=true&width=500&lines=Project+Manager;Full-Stack+Developer;Quality+Assurance;Multimedia+Artist" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -19,10 +17,6 @@
 <p align="center">
 <a href="https://app.daily.dev/jamdev"><img src="https://api.daily.dev/devcards/v2/fkO79VtHtEbMgCr6r7fX8.png?type=default&r=cw7" width="356" alt="Joana Monique Torres's Dev Card"/></a>
 </p>
-
-- 👨‍💻 Check out all my projects: [GitHub Profile](https://github.com/Jam-dev-code/)
-
-- 📫 Reach me via email: **jam153931@gmail.com**
 
 ---
 
@@ -126,4 +120,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jam-dev-code&show_icons=true&locale=en" alt="Git
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jam-dev-code&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
